@@ -4,7 +4,6 @@
  * C does not include a primitive "boolean" data type. "Int" type is used for such purposes.
  * In C a logical expression is considered to be false if it is evaluated to 0 and true in any other case.
  * So, "true" equals "not zero" (K&R Chap 2.7)
-
 */
 
 int main(){
