@@ -1,9 +1,8 @@
 #include <stdio.h>
 
-/* Example of explicit type conversion (casting)*/
+/* Some examples of explicit type conversion (casting)*/
 
-int main()
-{
+int main(){
     int x = 7;
     int y = 5;
 

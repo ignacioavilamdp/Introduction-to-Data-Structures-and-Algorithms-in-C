@@ -3,8 +3,7 @@
 
 /* Prints some typical character constants */
 
-void main()
-{
+void main(){
     printf("Some characters of the character set of the machine: \n");
     printf("The character constant %i represents the character ' ': White space \n", ' ');
     printf("The character constant %i represents the character 0: Number zero \n", '0');
