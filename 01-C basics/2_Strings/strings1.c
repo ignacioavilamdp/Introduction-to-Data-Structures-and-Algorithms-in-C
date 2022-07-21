@@ -9,7 +9,7 @@
  * Strings in C are implemented as single dimension arrays of characters (vectors) terminated by the null character '\0'.
  *
  * The null character is used as a sentinel value to indicate where the string ends within the array.
- * Indeed this character is typically used by standard library functions for this puorpose.
+ * Indeed this character is typically used by standard library functions for this purpose.
  *
  * Three important functions of the standard input/output library (stdio.h) that use this property and may be presented as example:
  *      1. printf("...%s...", array)
