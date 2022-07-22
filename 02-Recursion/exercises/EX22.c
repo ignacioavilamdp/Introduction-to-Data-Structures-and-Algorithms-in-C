@@ -1,11 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-#define N 30
-#define M 30
-
-/*
-    Obtener en forma recursiva el valor mínimo de un arreglo NxM.
-*/
+#define N 50
+#define M 50
 
 void cargarM(int mat[][M], int* n, int* m, char* nombre);
 void mostrarM(int mat[][M], int n, int m);
